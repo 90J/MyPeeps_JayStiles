@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\MyPeeps_JayStiles\MyPeeps_JayStiles\bin\Debug\MyPeeps_JayStiles.exe.config
+C:\Users\jstiles\source\repos\MyPeeps_JayStiles\MyPeeps_JayStiles\bin\Debug\MyPeeps_JayStiles.exe
+C:\Users\jstiles\source\repos\MyPeeps_JayStiles\MyPeeps_JayStiles\bin\Debug\MyPeeps_JayStiles.pdb
+C:\Users\jstiles\source\repos\MyPeeps_JayStiles\MyPeeps_JayStiles\obj\Debug\MyPeeps_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\MyPeeps_JayStiles\MyPeeps_JayStiles\obj\Debug\MyPeeps_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\MyPeeps_JayStiles\MyPeeps_JayStiles\obj\Debug\MyPeeps_JayStiles.exe
+C:\Users\jstiles\source\repos\MyPeeps_JayStiles\MyPeeps_JayStiles\obj\Debug\MyPeeps_JayStiles.pdb
